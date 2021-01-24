@@ -1,0 +1,14 @@
+body
+{
+   
+background-image: linear-gradient(177deg, #00fdff 0%, #4951eb 48%, #fc00ff 91%);
+background-repeat: repeat-x;
+}
+
+.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+}
